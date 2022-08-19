@@ -9,7 +9,7 @@ I will use the followwing:
  - Css grids
 
 ## Live Link
-- https://kudakwashe24.github.io/online-cv/index.html
+- 
 
 ## Technologies Used
 
@@ -30,7 +30,7 @@ Tools:
 
 ## Completed by
 
-Kudakwashe Mukombachoto - 2018
+Kudakwashe Mukombachoto - 2022
 
 
 Visit site here: https://kudakwashe24.github.io/online-cv/index.html
