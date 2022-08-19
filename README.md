@@ -33,6 +33,6 @@ Tools:
 Kudakwashe Mukombachoto - 2022
 
 
-Visit site here: https://kudakwashe24.github.io/online-cv/index.html
+Visit site here:
 
 Thank You...
