@@ -11,7 +11,7 @@ export function About() {
             02 / About & Background
           </span>
           <h2 className="font-display font-bold text-3xl sm:text-4xl text-[var(--color-brand-charcoal)] tracking-tight mb-6">
-            Frontend development with engineering discipline.
+            Frontend development with deep WordPress and systems expertise.
           </h2>
           <div className="font-mono text-xs text-[var(--color-brand-muted)] space-y-2">
             <p>• Cape Town, South Africa (UTC+2)</p>
@@ -23,15 +23,19 @@ export function About() {
         {/* Right Content Columns */}
         <div className="col-span-12 lg:col-span-8 space-y-6 text-[var(--color-brand-charcoal)] font-sans text-base sm:text-lg leading-relaxed">
           <p>
-            I am a Frontend Developer with commercial experience building responsive websites, custom CMS themes, and web applications. My focus is delivering reliable, well-structured digital experiences that work seamlessly across devices.
+            I am a Frontend Developer with commercial experience building and maintaining high-performance websites, enterprise WordPress platforms, and interactive web applications. My focus is combining visual design precision with robust engineering and reliable CMS architectures.
           </p>
 
           <p className="text-[var(--color-brand-muted)] text-base">
-            Currently at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Hello Infantry</strong>, I build and maintain customer-facing websites and web applications using JavaScript, Vue.js, PHP, SCSS, and WordPress. In previous roles at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Xpand IT</strong> and <strong className="text-[var(--color-brand-charcoal)] font-semibold">Enlabeler</strong>, I worked across custom WordPress/WooCommerce builds, Python backend workflows, server deployments, and software testing.
+            Currently at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Hello Infantry</strong>, I develop and refine customer-facing platforms using JavaScript, Vue.js, WordPress, PHP, and SCSS. My work includes implementing key user journeys for telecommunications products, creating WordPress knowledge-base layouts with Elementor, and building JetEngine-based dynamic content structures.
           </p>
 
           <p className="text-[var(--color-brand-muted)] text-base">
-            Having led data operations at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Aerobotics</strong> earlier in my career alongside completing my Computer Science degree at the <strong className="text-[var(--color-brand-charcoal)] font-semibold">University of Cape Town</strong>, I bring a collaborative, problem-solving approach to engineering teams, designers, and commercial clients.
+            Previously at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Xpand IT</strong>, I developed and maintained WordPress and WooCommerce websites, building custom child themes, managing Ubuntu/Linux server environments, MySQL databases, SSL configurations, automated Python product workflows, and performance optimization.
+          </p>
+
+          <p className="text-[var(--color-brand-muted)] text-base">
+            Combined with earlier software QA and Python/Django engineering at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Enlabeler</strong>, data operations leadership at <strong className="text-[var(--color-brand-charcoal)] font-semibold">Aerobotics</strong>, and a Computer Science degree from the <strong className="text-[var(--color-brand-charcoal)] font-semibold">University of Cape Town</strong>, I bring an end-to-end perspective to every build—from Figma handoff and frontend components to backend CMS pipelines and production hosting.
           </p>
 
           {/* Career Timeline */}

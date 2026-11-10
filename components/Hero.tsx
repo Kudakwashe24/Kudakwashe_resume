@@ -6,7 +6,7 @@ export function Hero() {
       <div className="grid grid-cols-12 gap-6 mb-8 font-mono text-[11px] uppercase tracking-wider text-[var(--color-brand-muted)]">
         <div className="col-span-12 sm:col-span-4 flex items-center gap-2">
           <span className="w-1.5 h-1.5 bg-[var(--color-brand-orange)] rounded-full" aria-hidden="true" />
-          <span>Frontend Architecture & UI Development</span>
+          <span>Frontend Development & WordPress Architecture</span>
         </div>
         <div className="col-span-12 sm:col-span-4 hidden sm:block">
           <span>Currently: Hello Infantry • Cape Town</span>
@@ -26,7 +26,7 @@ export function Hero() {
 
         <div className="col-span-12 lg:col-span-3 pb-2">
           <p className="text-[var(--color-brand-muted)] text-sm sm:text-base leading-relaxed font-sans">
-            Commercial Frontend Developer shipping responsive web platforms, custom CMS themes, and interactive interfaces. Experienced in modern JavaScript, Vue.js, React, and WordPress architectures.
+            Commercial Frontend Developer shipping responsive web platforms, bespoke WordPress systems, and interactive interfaces. Skilled across modern JavaScript, Vue.js, React, custom themes, Elementor, WooCommerce, and PHP architecture.
           </p>
           <div className="mt-6 flex items-center gap-4">
             <a
@@ -45,22 +45,22 @@ export function Hero() {
         <div>
           <span className="font-mono text-xs text-[var(--color-brand-muted)] uppercase tracking-wider block">Commercial Focus</span>
           <span className="font-display text-2xl sm:text-3xl font-bold text-[var(--color-brand-charcoal)] mt-1 block">5+ Years</span>
-          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">Agency & commercial delivery</span>
+          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">Commercial & agency delivery</span>
         </div>
         <div>
-          <span className="font-mono text-xs text-[var(--color-brand-muted)] uppercase tracking-wider block">Core Frontend</span>
-          <span className="font-display text-2xl sm:text-3xl font-bold text-[var(--color-brand-charcoal)] mt-1 block">JS & Vue / React</span>
-          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">TypeScript, SCSS & Tailwind</span>
+          <span className="font-mono text-xs text-[var(--color-brand-muted)] uppercase tracking-wider block">Modern Frontend</span>
+          <span className="font-display text-2xl sm:text-3xl font-bold text-[var(--color-brand-charcoal)] mt-1 block">JS, Vue & React</span>
+          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">TypeScript, Next.js & SCSS</span>
         </div>
         <div>
-          <span className="font-mono text-xs text-[var(--color-brand-muted)] uppercase tracking-wider block">CMS & Commerce</span>
-          <span className="font-display text-2xl sm:text-3xl font-bold text-[var(--color-brand-orange)] mt-1 block">Custom Themes</span>
-          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">WordPress, WooCommerce, PHP</span>
+          <span className="font-mono text-xs text-[var(--color-brand-muted)] uppercase tracking-wider block">WordPress & CMS</span>
+          <span className="font-display text-2xl sm:text-3xl font-bold text-[var(--color-brand-orange)] mt-1 block">Custom & Woo</span>
+          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">Themes, Elementor, JetEngine, PHP</span>
         </div>
         <div>
           <span className="font-mono text-xs text-[var(--color-brand-muted)] uppercase tracking-wider block">Academic Foundation</span>
           <span className="font-display text-2xl sm:text-3xl font-bold text-[var(--color-brand-charcoal)] mt-1 block">UCT CS</span>
-          <span className="text-xs text-[var(--color-brand-muted)] mt-1 block font-sans">Computer Science Degree</span>
+          <span className="text-xs text-brand-muted mt-1 block font-sans">Computer Science Degree</span>
         </div>
       </div>
 
