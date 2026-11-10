@@ -1,0 +1,7 @@
+# Netlify Build Configuration for Next.js App Router (Static HTML export or modern Next runtime)
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
