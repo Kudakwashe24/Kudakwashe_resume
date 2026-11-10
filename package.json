@@ -1,0 +1,39 @@
+{
+  "name": "portfolio-redesign",
+  "version": "1.0.0",
+  "description": "Building an online cv takes away all the stress and difficulty that comes with making a resume. I created a cleanly formatted and persuasive resume that I believe can land me into interviews and employment.  I will use the followwing:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kudakwashe24/Kudakwashe_resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kudakwashe24/Kudakwashe_resume/issues"
+  },
+  "homepage": "https://github.com/Kudakwashe24/Kudakwashe_resume#readme",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^20.19.43",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "lucide-react": "^1.71.0",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^5.9.3"
+  }
+}

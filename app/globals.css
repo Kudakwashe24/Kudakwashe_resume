@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-charcoal: #0D0E11;
+  --color-brand-dark: #14161B;
+  --color-brand-surface: #1A1D24;
+  --color-brand-muted: #6E7480;
+  --color-brand-border: #E3E0D8;
+  --color-brand-border-subtle: #EDE9E1;
+  --color-brand-paper: #FAF8F5;
+  --color-brand-paper-card: #FFFFFF;
+  --color-brand-orange: #FF5500;
+  --color-brand-orange-hover: #E04B00;
+  --color-brand-orange-soft: #FFF1EB;
+
+  --font-display: "Space Grotesk", sans-serif;
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+/* Reduced motion preference support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-brand-paper);
+  color: var(--color-brand-charcoal);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background-color: #FF5500;
+  color: #FFFFFF;
+}
